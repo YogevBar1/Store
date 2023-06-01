@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    padding-bottom: 10px;
+    padding: 10px;
+    border: 1px solid;
+   
+    align-content: center;
+}
+
+img{
+    width:100px;
+    height: 100px;
+}
+
+textarea{
+    width:300px;
+   
+}
+
+form{
+    background-image: linear-gradient(5deg, white, rgb(240, 243, 96));
+    color: blue;
+    
+}
+
+
+
+
+
